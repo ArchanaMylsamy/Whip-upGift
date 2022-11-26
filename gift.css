@@ -1,0 +1,65 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url("https://th.bing.com/th/id/R.9fa0d74a27e2a6ff2e4e6bffa70e7181?rik=FFxh9v3rAUBZgA&riu=http%3a%2f%2ffiles.vividscreen.info%2fsoft%2fd58863d94c7c6d7d3ad8dfdb12ef8363%2fGreen-Christmas-Gift-Boxes-1920x1080.jpg&ehk=vTvh2p%2ft9D8sgQvT43mHY1eNh6ewcZB0vQc5UUmlTm0%3d&risl=&pid=ImgRaw&r=0")
+}
+h1{
+    margin-left: 450px;
+    margin-top: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+h2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#ipfield{
+    margin-left: 340px;
+    border-color: transparent;
+    border-radius: 15px;
+    background-color:whitesmoke;
+    opacity: 0.8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 3px 5px green;
+}
+::placeholder {
+    color:black;
+    font-size: 0.9em;
+}
+.butfield{
+    margin-left: 30px;
+    border-color: transparent;
+    background-color:lightgreen;
+    opacity: 0.8;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 3px 5px green;
+}
+.container1{
+    margin-top: 35px;
+}
+#giftbox{
+    width: 1000px;
+    height: 0;
+}
+.box1{
+    background-color: white;
+    margin-left: 120px;
+    margin-right: 60px;
+    margin-top: 50px;
+    width:800px;
+    height: 200px;
+    opacity: 0.9;
+}
+#img1{
+    width: 80px;
+    height: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
